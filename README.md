@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **ashwindibu@gmail.com**
 
-- ⚡ What I like to do: **I like to do Outdoors, Football and Foods...and coding**
+- ⚡ What I like to do: **I like to do Outdoors, Football, Foods and coding**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -30,6 +30,15 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
+  
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" alt="python" width="40" height="40"/> 
+  </a>  
+  
+  <a href="https://wordpress.com/" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/128/174/174881.png" alt="python" width="40" height="40"/> 
+  </a>  
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
