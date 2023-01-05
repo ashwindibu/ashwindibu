@@ -6,13 +6,13 @@
 
 - 📫 How to reach me: **ashwindibu@gmail.com**
 
-- ⚡ What I like to do: **I like to do Outdoors, Football, Foods and coding**
+- ⚡ What I like to do: **I like to do Outdoors, Football, Foods and Coding**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-john-dibu-73a6391b9/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dreamdevilz/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashwin_john_dibu/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashwindibu)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwindibu@gmail.com)
   
