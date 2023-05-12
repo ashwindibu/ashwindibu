@@ -35,6 +35,10 @@
     <img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" alt="python" width="40" height="40"/> 
   </a>  
   
+   <a href="https://react.dev/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="python" width="40" height="40"/> 
+  </a>  
+  
   <a href="https://wordpress.com/" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/128/174/174881.png" alt="python" width="40" height="40"/> 
   </a>  
